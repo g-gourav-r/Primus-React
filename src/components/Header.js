@@ -5,10 +5,7 @@ const Header = () => {
   return (
     <header>
       <nav>
-        <ul>
-          <li><Link to="/login">Login</Link></li>
-          <li><Link to="/signup">Signup</Link></li>
-        </ul>
+        Primus - Your intelligent Data Analyst
       </nav>
     </header>
   );
