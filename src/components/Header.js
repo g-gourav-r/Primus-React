@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
-    <header>
+    <header className='border'>
       <nav>
         Primus - Your intelligent Data Analyst
       </nav>
